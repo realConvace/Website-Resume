@@ -1,0 +1,12 @@
+{
+  "short_name": "CN Portfolio",
+  "name": "Christopher Naser Portfolio",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#f4f2ed",
+  "theme_color": "#0b2436"
+}
